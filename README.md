@@ -1,4 +1,4 @@
-## React Dashboard — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" admin dashboard template
+## React Dashboard — "" admin dashboard template
 built with [React](https://facebook.github.io/react/), [Bootstrap](http://getbootstrap.com/), [React Router](https://reacttraining.com/react-router/),
 [Redux](http://redux.js.org/) and [GraphQL](http://graphql.org/) based on
 [Create React App](https://github.com/facebook/create-react-app) and latest industry best practices.
